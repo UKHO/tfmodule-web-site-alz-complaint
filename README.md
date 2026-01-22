@@ -3,6 +3,8 @@
 **Purpose:**
 Produce an internal Terraform module for deploying Azure Web Apps with optional deployment slots, compliant with our corporate ALZ constraints.
 
+Based on https://github.com/Azure/terraform-azurerm-avm-res-web-site
+
 **Scope / Deliverables:**
 
 * Terraform module using `azurerm` provider
